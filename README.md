@@ -1,3 +1,14 @@
+## ⚠️ Fork Notice
+
+**This repository is a fork of [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk).**
+
+- **Reverted to Commit:** `dbf3015dc254f98595bb861fe9b7afbffc66bbab`  
+  *Reason:* Compatibility with Unitree Go2 robot running firmware version **1.0.23**.
+
+Please refer to the [original repository](https://github.com/abizovnuralem/go2_ros2_sdk) for the latest updates and features. 
+
+---
+
 ![Ros2 SDK](https://github.com/abizovnuralem/go2_ros2_sdk/assets/33475993/49edebbe-11b6-49c6-b82d-bc46257674bd)
 
 # Welcome to the Unitree Go2 ROS2 SDK Project!
